@@ -34,5 +34,7 @@ git checkout riab     -----> switch to riab branch
 Merge:
 ------
 
-git merge master      --------> Merge master changes into current branch
+git merge masterr      --------> Merge master changes into current branch
 
+
+what is pull r
