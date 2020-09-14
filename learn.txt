@@ -1,0 +1,38 @@
+Local:
+-------------
+
+git init
+
+git add -A
+git add .
+git add *
+
+git commit -m "comments here"
+
+git restore <file>
+
+
+
+
+git clone <url>
+git pull
+git push
+
+
+
+
+Branching:
+----------
+
+git branch            -------> list branches
+
+git branch riab       ----> Create new branch riab
+
+git checkout riab     -----> switch to riab branch
+
+
+Merge:
+------
+
+git merge master      --------> Merge master changes into current branch
+
